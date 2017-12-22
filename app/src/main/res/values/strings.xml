@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Melody</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_scan_qr">btn_scan_qr</string>
+    <string name="a1">A1</string>
+    <string name="a2">A2</string>
+    <string name="a3">A3</string>
+    <string name="a4">A4</string>
+    <string name="a5">A5</string>
+    <string name="a6">A6</string>
+    <string name="welcometomelody">به ملودی خوش آمدید</string>
+</resources>
